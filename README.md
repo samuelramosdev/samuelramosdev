@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Samuel Ramos
+### Olá 👋 Eu sou Samuel Ramos
 
 Desde criança, sempre fui apaixonado por ciência e tecnologia. Estudei desenvolvimento web na Trybe, onde me especializei em JavaScript e React. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, aplicando meus conhecimentos em projetos práticos e reais.
 
