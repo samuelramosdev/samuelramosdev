@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Samuel Ramos
 
-Front-end developer. Passionate about science, technology and developmental psychology.
+Desde criança, sempre fui apaixonado por ciência e tecnologia. Estudei desenvolvimento web na Trybe, onde me especializei em JavaScript e React. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, aplicando meus conhecimentos em projetos práticos e reais.
+
+Minha experiência na Trybe me ensinou a importância da colaboração e do aprendizado contínuo. Como desenvolvedor front-end júnior, estou preparado para enfrentar novos desafios e agregar valor a projetos inovadores. Acredito que minhas habilidades técnicas e a minha curiosidade sincera me tornam um profissional proativo e em constante evolução.
 
 
 ## 💻 Technologies and Tools
